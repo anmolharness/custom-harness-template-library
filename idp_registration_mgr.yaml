@@ -19,3 +19,4 @@ entities:
     project: Solutions_Factory
     workflows:
       - name: harness-project
+      - name: harness-pipeline
